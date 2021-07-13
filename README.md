@@ -2,10 +2,13 @@
 
 Hi! My name is Chris. 
 
-I'm a Data Scientist with experience in Machine Learning, Deep Learning, Python, SQL, and JavaScript. I'm also the maintainer for the open-source project [Open Brewery DB](https://www.openbrewerydb.org/).
+I'm a Software Engineer and aspiring Data Scientist with experience in Full Stack Web Development, Machine Learning, Natural Language Processing (NLP), JavaScript/TypeScript, Python, and SQL. 
+
+I'm also the maintainer for the open-source project [Open Brewery DB](https://www.openbrewerydb.org/). 🍻
 
 Here are some other interesting facts about me:
 
+- 👨‍💻 I currently work at [Carevoyance](http://www.carevoyance.com) as a Senior Engineer where I help to analyze and visualize relationships in medical data.
 - 🔭 I recently finished the Springboard Data Science Career Track (Jan 2020). 
   * [Brewery Review Analysis with Natural Language Processing (NLP) and Named Entity Recognition (NER)](https://github.com/chrisjm/brewery-review-nlp)
   * [Credit Card Fraud Analysis](https://github.com/chrisjm/Credit-Card-Fraud-Analysis)
